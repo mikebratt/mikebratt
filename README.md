@@ -1,6 +1,5 @@
 ### Welcome
 
-- Maker at Hackspace Manchester [HACManchester](https://github.com/HACManchester)
 - 📫 I'm on [Telegram](http://t.me/mikebratt)
 
 <!--
