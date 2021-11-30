@@ -1,6 +1,6 @@
 ### Welcome
 
-- 📫 I'm on [Telegram](http://t.me/mikebratt)
+- 📫 How to reach me: http://mike.bratt.uk
 
 <!--
 **mikebratt/mikebratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: http://t.me/mikebratt
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📫 I'm on [Telegram](http://t.me/mikebratt)
 -->
