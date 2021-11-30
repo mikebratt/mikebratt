@@ -1,6 +1,6 @@
 ### Welcome
 
-- 📫 How to reach me: http://mike.bratt.uk
+- 📫 How to reach me: https://mike.bratt.uk
 
 <!--
 **mikebratt/mikebratt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
